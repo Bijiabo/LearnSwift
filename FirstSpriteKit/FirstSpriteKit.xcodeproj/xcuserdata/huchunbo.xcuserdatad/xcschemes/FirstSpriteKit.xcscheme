@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "65496E5A1BEFCD4300117B50"
-               BuildableName = "BackgroundFetch.app"
-               BlueprintName = "BackgroundFetch"
-               ReferencedContainer = "container:BackgroundFetch.xcodeproj">
+               BlueprintIdentifier = "65A59F521BF3AAB00076DCCE"
+               BuildableName = "FirstSpriteKit.app"
+               BlueprintName = "FirstSpriteKit"
+               ReferencedContainer = "container:FirstSpriteKit.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "65496E5A1BEFCD4300117B50"
-            BuildableName = "BackgroundFetch.app"
-            BlueprintName = "BackgroundFetch"
-            ReferencedContainer = "container:BackgroundFetch.xcodeproj">
+            BlueprintIdentifier = "65A59F521BF3AAB00076DCCE"
+            BuildableName = "FirstSpriteKit.app"
+            BlueprintName = "FirstSpriteKit"
+            ReferencedContainer = "container:FirstSpriteKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "65496E5A1BEFCD4300117B50"
-            BuildableName = "BackgroundFetch.app"
-            BlueprintName = "BackgroundFetch"
-            ReferencedContainer = "container:BackgroundFetch.xcodeproj">
+            BlueprintIdentifier = "65A59F521BF3AAB00076DCCE"
+            BuildableName = "FirstSpriteKit.app"
+            BlueprintName = "FirstSpriteKit"
+            ReferencedContainer = "container:FirstSpriteKit.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "65496E5A1BEFCD4300117B50"
-            BuildableName = "BackgroundFetch.app"
-            BlueprintName = "BackgroundFetch"
-            ReferencedContainer = "container:BackgroundFetch.xcodeproj">
+            BlueprintIdentifier = "65A59F521BF3AAB00076DCCE"
+            BuildableName = "FirstSpriteKit.app"
+            BlueprintName = "FirstSpriteKit"
+            ReferencedContainer = "container:FirstSpriteKit.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
